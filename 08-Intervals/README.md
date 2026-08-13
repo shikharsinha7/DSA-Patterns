@@ -12,5 +12,6 @@ First step is almost always the same here - sort the intervals by start time fir
 - [ ] 04 - Meeting Rooms (LeetCode 252)
 - [ ] 05 - Meeting Rooms II (LeetCode 253)
 - [ ] 06 - Minimum Interval to Include Each Query (LeetCode 1851)
+- [ ] 07 - Car Pooling (LeetCode 1094)
 
 _Checking these off as I actually solve and push them, not before._
