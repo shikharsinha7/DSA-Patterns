@@ -12,7 +12,7 @@ Each pattern gets its own folder with:
 
 Folders are currently just stubs with the problem list pre-filled in, since I'm structuring this out before actually solving everything. I'll fill in real code and check things off the list as I go, not all at once.
 
-## The 21 patterns
+## The 24 patterns
 
 | # | Pattern |
 |---|---|
@@ -37,6 +37,9 @@ Folders are currently just stubs with the problem list pre-filled in, since I'm 
 | 19 | String Matching (KMP / Rabin-Karp) |
 | 20 | Math and Geometry |
 | 21 | Sorting (Implementation Level) |
+| 22 | Array Simulation Logic |
+| 23 | String Simulation Logic |
+| 24 | Simulation and State Logic |
 
 ## Where I'm at right now
 
